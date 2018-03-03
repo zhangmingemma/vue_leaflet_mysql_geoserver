@@ -24,8 +24,8 @@
 
 ## 项目效果展示
 
-![](screenShot1.png)
-![](screenShot2.png)
+![](/screenShot1.png)
+![](/screenShot2.png)
 
 录屏播放见项目地址首目录下的动画效果1 & 2
 
